@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**🛢️⛽Petroleum Engineer  || Using Data Science 🤖🖥️📈 to Crack Shale Oil/Gas Recovery Challenges.
+**🛢️⛽Petroleum Engineer  || Using Data Science 🤖🖥️📈 to Crack  Oil/Gas Recovery Challenges.
 
 - 👯 I’m looking to collaborate on Reservoir Characterization & EOR ML/AI-powered solutions
 - 📫 How to reach me: petro2mlai@gmail.com
