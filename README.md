@@ -16,7 +16,7 @@ This repo is where I'm documenting that work: real projects, built from the grou
 - Explaining the petroleum engineering fundamentals behind each project clearly enough for people outside the field.
 - Sharing the process, not just the finished results.
 
-  ## Skills & Tools 🛠️
+## Skills & Tools 🛠️
 
   **Petroleum Engineering:** Reservoir characterization, digital rock physics, Petrel, CMG, Petra, Techlog, GOHFER
   **Data Analytics:** Tableau, Power BI, SQL
