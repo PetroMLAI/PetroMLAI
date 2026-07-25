@@ -14,7 +14,7 @@ This repo is where I'm documenting that work: real projects, built from the grou
 
 - Applying machine learning to oil recovery, across both conventional and unconventional reservoirs.
 - Explaining the petroleum engineering fundamentals behind each project clearly enough for people outside the field.
-- Sharing the process, not jus the finished results.
+- Sharing the process, not just the finished results.
 
   ## Skills & Tools 🛠️
 
