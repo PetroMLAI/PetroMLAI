@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Come along on my journey of merging my data skills into a detour of my career.
+## Come along on my journey of merging my data skills into a detour on my career.
 
 PhD in Petroleum Engineering, with a research background in reservoir characterization and digital rock physics. After my postdoc, I moved into data analytics, working mainly in Tableau and picking up SQL along the way.
 
