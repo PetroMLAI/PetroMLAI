@@ -21,3 +21,9 @@ This repo is where I'm documenting that work: real projects, built from the grou
   **Petroleum Engineering:** Reservoir characterization, digital rock physics, Petrel, CMG, Petra, Techlog, GOHFER
   **Data Analytics:** Tableau, Power BI, SQL
   **ML/AI:** Python, Flask, Machine Learning, Neural Networks
+
+## Featured Projects
+
+### [Beyond TOC: Using Topological Data Analysis (TDA) to Identif Connectivity in Chattanooga Shale] (https://github.com/PetroMLAI/TDA-on-Chattanooga-Shale/tree/main)
+Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quantify organic matter network connectivity at the pore-scale, reavealing structural factors behind its oil recovery potential.
+
