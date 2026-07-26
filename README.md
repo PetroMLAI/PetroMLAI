@@ -4,7 +4,7 @@
 
 PhD in Petroleum Engineering, with a research background in reservoir characterization and digital rock physics. After my postdoc, I found myself moving into data analytics, working mainly in Tableau and picking up SQL along the way.
 
-I didn't want to stop there. I wanted o keep growing, so I built on that foundation and took an Applied Data Science certificate program to build a real foundation in machine learning and AI.
+I didn't want to stop there. I wanted to keep growing, so I built on that foundation and took an Applied Data Science certificate program to build a real foundation in machine learning and AI.
 
 Looking back, each step led naturally into the next, and brought me to where I am now: bringing my petroleum engineering background together with these data science skills, with a focus on reservoir characterizaton and improving oil recovery.
 
