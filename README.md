@@ -27,5 +27,8 @@ This repo is where I'm documenting that work: real projects, built from the grou
 ### [Beyond TOC: Using Topological Data Analysis (TDA) to Identify Connectivity in Chattanooga Shale] (https://github.com/PetroMLAI/TDA-on-Chattanooga-Shale/tree/main)
 Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quantify organic matter network connectivity at the pore-scale, reavealing structural factors behind its oil recovery potential.
 
+### [Nanopore Flow and CO2-EOR Screening in Lower Eagle Ford Shale](https://github.com/PetroMLAI/-CO2-Flow-in-LEF-Kerogen-Nanopores)
+Applied Knudsen-corrected pore network modeling and machine learning to FIB-SEM imaging of Lower Eagle Ford shale.
+
 > *More projects coming soon.*
 
