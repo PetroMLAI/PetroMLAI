@@ -28,7 +28,7 @@ This repo is where I'm documenting that work: real projects, built from the grou
 Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quantify organic matter network connectivity at the pore-scale, reavealing structural factors behind its oil recovery potential.
 
 ### [Nanopore Flow and CO2-EOR Screening in Lower Eagle Ford Shale](https://github.com/PetroMLAI/-CO2-Flow-in-LEF-Kerogen-Nanopores)
-Applied Knudsen-corrected pore network modeling and machine learning to FIB-SEM imaging of Lower Eagle Ford shale.
+Applied Knudsen-corrected pore network modeling and machine learning to FIB-SEM imaging of Lower Eagle Ford shale. Isolated the standalone effect of nanopore physics from network-topology effects on permeability, and validated results against independent real pore-network data.
 
 > *More projects coming soon.*
 
