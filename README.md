@@ -30,5 +30,8 @@ Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quant
 ### [Nanopore Flow and CO2-EOR Screening in Lower Eagle Ford Shale](https://github.com/PetroMLAI/-CO2-Flow-in-LEF-Kerogen-Nanopores)
 Applied Knudsen-corrected pore network modeling and machine learning to FIB-SEM imaging of Lower Eagle Ford shale. Isolated the standalone effect of nanopore physics from network-topology effects on permeability, and validated results against independent real pore-network data.
 
+## [CO2 Storage Capacity Estimation in Lower Eagle Ford Kerogen Nanopores](https://github.com/PetroMLAI/CO2-Storage-Capacity-Estimation-in-Lower-Eagle-Ford-Kerogen-Nanopores)
+Applied pore-scale simulation to FIB-SEM imaging of Lower Eagle Ford shale to estimate CO2 storage capacity. Replaced the standard method's generic, one-size-fits-all efficiency factor with a directly-simulated, sample-specific trapped pore fraction.
+
 > *More projects coming soon.*
 
