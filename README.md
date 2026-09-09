@@ -4,9 +4,9 @@
 
 PhD in Petroleum Engineering, with a research background in reservoir characterization and digital rock physics. After my postdoc, I found myself moving into data analytics, working mainly in Tableau and picking up SQL along the way.
 
-I didn't want to stop there. I wanted to keep growing, so I built on that foundation and took an Applied Data Science program to build a real foundation in machine learning and AI.
+I didn't want to stop there. I wanted to keep growing, so I built on that foundation and enrolled in an Applied Data Science program to build a real foundation in machine learning and AI.
 
-Looking back, each step led naturally into the next, and brought me to where I am now: bringing my petroleum engineering background together with these data science skills, with a focus on reservoir characterizaton and improving oil recovery.
+Looking back, each step led naturally into the next, and brought me to where I am now: bringing my petroleum engineering background together with these data science skills, with a focus on reservoir characterization and improving oil recovery.
 
 This repo is where I'm documenting that work: real projects, built from the ground up, at the intersection of petroleum engineering and ML/AI.
 
@@ -25,7 +25,7 @@ This repo is where I'm documenting that work: real projects, built from the grou
 ## Featured Projects
 
 ### [Beyond TOC: Using Topological Data Analysis (TDA) to Identify Connectivity in Chattanooga Shale](https://github.com/PetroMLAI/TDA-on-Chattanooga-Shale/tree/main)
-Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quantify organic matter network connectivity at the pore-scale, reavealing structural factors behind its oil recovery potential.
+Applied TDA to high-resolution FIB-SEM imaging of the Chattanooga Shale to quantify organic matter network connectivity at the pore-scale, revealing structural factors behind its oil recovery potential.
 
 ### [Nanopore Flow and CO2-EOR Screening in Lower Eagle Ford Shale](https://github.com/PetroMLAI/-CO2-Flow-in-LEF-Kerogen-Nanopores)
 Applied Knudsen-corrected pore network modeling and machine learning to FIB-SEM imaging of Lower Eagle Ford shale. Isolated the standalone effect of nanopore physics from network-topology effects on permeability, and validated results against independent real pore-network data.
